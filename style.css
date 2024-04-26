@@ -1,0 +1,174 @@
+scroll-behavior: smooth;
+
+section{
+    min-height: 9vh;
+}
+#home{
+    background-color: #8576FF;
+    color: #1C1678;
+    display: flex;
+}
+.korobka{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 95vh;
+}
+.korobka2{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    width: 50%;
+    height: 75vh;
+
+}
+h1{
+    margin: 0;
+    font-size: 100px;
+    color: #7BC9FF ;
+}
+h2{
+    margin: 0;
+    font-size: 50px;
+}
+h3{
+    margin: 0;
+    font-size: 30px;
+}
+.textcenter{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+}
+.w50{
+    width: 30%;
+}
+.logo{
+    font-size: 30px;
+    text-decoration: none;
+    margin: 0 30px;
+    font-weight: 600; 
+    color: #7BC9FF;   
+}
+.link{
+    font-size: 30px;
+    text-decoration: none;
+    margin: 0 30px;
+    color: #7BC9FF;
+
+}
+nav{
+    border: 1px solid #C5FF95 ;
+    margin: 10px 50px;
+    border-radius: 50px;
+    width: calc(100% - 100px);
+    color: #C5FF95;
+    background-color: #8576FF;
+    display: flex;
+    align-items: center;
+    height: 60px;
+  
+}
+.right{
+    position: absolute;
+    right: 80px;
+}
+.btn{
+    padding: 10px 30px;
+    background-color: #7BC9FF;
+    border-radius: 30px;
+    color: black;
+}
+.korobka3{
+    justify-content: center;
+    background-color: #8576FF;
+    color: #1C1678;
+}
+
+
+h4{	
+    margin: 20px 20px;
+    font-size: 100px;
+    color: #7BC9FF ;
+    background-color: #8576FF;
+
+}
+h5{
+	margin: 10px;
+    font-size: 40px;
+}
+h6{
+	margin: 0;
+   
+}
+#blog{
+    padding: 150px 0;
+    background-color: #8576FF;
+}
+.card{
+    width: 400px;
+    background-color: #A3FFD6;
+    padding: 50px ;
+    border-radius: 30px;
+}
+.card1{
+	 width: 500px;
+    background-color: #A3FFD6;
+    padding: 50px ;
+    border-radius: 30px;
+    margin: 10px;
+} 
+.card2{
+     width: 400px;
+    background-color: #A3FFD6;
+    padding: 50px ;
+    border-radius: 30px;
+    margin: 50px;
+     justify-content: center;
+}
+.w100{
+    width: 100%;
+    background-color: #8576FF;
+}
+.cardbtn{
+    text-decoration: none;
+    width: 500px;
+    display: block;
+    margin: 0 150px;
+}
+.dflex{
+    display: flex;
+}
+.w80{
+    width: 80%;
+}
+.chiutnizhe{
+    margin-top: 450px;
+}
+
+
+.center{
+	background-color: #8576FF;
+    display: flex;
+}
+
+h6{
+	color:  #1C1678;
+}
+.korobka5{
+	display: flex;
+    justify-content: center;
+    align-items: end;
+    width: 100%;
+    height: 35vh;
+    background-color: #8576FF;
+    color: #1C1678;
+   
+}
+body{
+    margin: 0;
+    background-color: #8576FF;
+}
