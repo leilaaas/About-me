@@ -29,4 +29,3 @@ function first(){
             gameBox.appendChild(newImg2) 
         } 
     } 
-
